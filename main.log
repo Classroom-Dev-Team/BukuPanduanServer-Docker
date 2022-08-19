@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  17 AUG 2022 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  19 AUG 2022 10:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -241,7 +241,146 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box51
-) (main.aux)
+) (main.aux
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_figure' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
@@ -340,52 +479,1208 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ] (main.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 3.
-)
+ [3])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [3] [4
+ [4] (main.lof [5
 
-] (main.lof)
+])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [5] [6
-
-] (main.lot)
+ [6] (main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [7] [8
+ [7
 
-] (chapter/tentang_docker_hub.tex
+] [8
+
+] (chapter/tentang_docker.tex
  1.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6.
+<image/docker.PNG, id=386, 770.88pt x 197.98969pt>
+File: image/docker.PNG Graphic file (type png)
+<use image/docker.PNG>
+Package pdftex.def Info: image/docker.PNG  used on input line 13.
+(pdftex.def)             Requested size: 360.0pt x 92.46pt.
+[1
+
+ <./image/docker.PNG>]
+Overfull \hbox (25.25726pt too wide) in paragraph at lines 30--31
+[]\T1/lmr/m/n/10.95 Kontainer docker da-pat ber-jalan di-mana saja, baik lokal, mesin fisik/virtual,
+ []
+
+
+Overfull \hbox (3.02264pt too wide) in paragraph at lines 38--43
+\T1/lmr/m/n/10.95 Docker client da-pat berko-mu-nikasi den-gan Docker dae-mon yang men-jalankan
+ []
+
+
+Overfull \hbox (13.9712pt too wide) in paragraph at lines 38--43
+\T1/lmr/m/n/10.95 tu-gas un-tuk mem-ban-gun, men-jalankan, dan mendis-tribusikan con-tainer docker.
+ []
+
+
+Overfull \hbox (5.18245pt too wide) in paragraph at lines 38--43
+\T1/lmr/m/n/10.95 client un-tuk berko-mu-nikasi den-gan ap-likasi yang di-dalam-nya ter-da-pat banyak
+ []
+
+<image/architecture.jpg, id=394, 1185.96924pt x 619.85423pt>
+File: image/architecture.jpg Graphic file (type jpg)
+<use image/architecture.jpg>
+Package pdftex.def Info: image/architecture.jpg  used on input line 46.
+(pdftex.def)             Requested size: 360.0pt x 188.152pt.
+[2] [3 <./image/architecture.jpg>]) (chapter/instalasi_docker.tex [4]
+ 2.
+<image/2.jpg, id=414, 551.81157pt x 363.60844pt>
+File: image/2.jpg Graphic file (type jpg)
+<use image/2.jpg>
+Package pdftex.def Info: image/2.jpg  used on input line 14.
+(pdftex.def)             Requested size: 360.0pt x 237.22484pt.
+
+Underfull \hbox (badness 2181) in paragraph at lines 19--20
+\T1/lmr/m/n/10.95 COMMAND: []sudo apt in-stall apt-transport-https ca-certificates curl
+ []
+
+<image/3.jpg, id=415, 546.54187pt x 371.13657pt>
+File: image/3.jpg Graphic file (type jpg)
+<use image/3.jpg>
+Package pdftex.def Info: image/3.jpg  used on input line 21.
+(pdftex.def)             Requested size: 360.0pt x 244.46385pt.
+
+LaTeX Warning: Float too large for page by 73.59612pt on input line 25.
+
+<image/4.jpg, id=416, 553.31718pt x 370.38374pt>
+File: image/4.jpg Graphic file (type jpg)
+<use image/4.jpg>
+Package pdftex.def Info: image/4.jpg  used on input line 33.
+(pdftex.def)             Requested size: 360.0pt x 240.97829pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\T1/lmr/m/n/10.95 COMMAND: []sudo add-apt-repository ^^Pdeb [arch=amd64]
+ []
+
+<image/15.jpg, id=417, 551.81157pt x 365.11406pt>
+File: image/15.jpg Graphic file (type jpg)
+<use image/15.jpg>
+Package pdftex.def Info: image/15.jpg  used on input line 40.
+(pdftex.def)             Requested size: 360.0pt x 238.20714pt.
+
+LaTeX Warning: Float too large for page by 98.90121pt on input line 44.
+
+<image/16.jpg, id=418, 550.30594pt x 366.61969pt>
+File: image/16.jpg Graphic file (type jpg)
+<use image/16.jpg>
+Package pdftex.def Info: image/16.jpg  used on input line 50.
+(pdftex.def)             Requested size: 360.0pt x 239.84395pt.
+<image/5.jpg, id=419, 548.80031pt x 363.60844pt>
+File: image/5.jpg Graphic file (type jpg)
+<use image/5.jpg>
+Package pdftex.def Info: image/5.jpg  used on input line 57.
+(pdftex.def)             Requested size: 360.0pt x 238.52312pt.
+
+LaTeX Warning: Float too large for page by 56.67448pt on input line 61.
+
+<image/17.jpg, id=420, 549.55313pt x 368.1253pt>
+File: image/17.jpg Graphic file (type jpg)
+<use image/17.jpg>
+Package pdftex.def Info: image/17.jpg  used on input line 67.
+(pdftex.def)             Requested size: 360.0pt x 241.15472pt.
+<image/14.jpg, id=421, 548.80031pt x 368.87813pt>
+File: image/14.jpg Graphic file (type jpg)
+<use image/14.jpg>
+Package pdftex.def Info: image/14.jpg  used on input line 75.
+(pdftex.def)             Requested size: 360.0pt x 241.97998pt.
+
+LaTeX Warning: Float too large for page by 47.84212pt on input line 79.
+
+) (chapter/build_aplikasi_dan_run_pada_docker.tex [5
+
+] [6 <./image/2.jpg> <./image/3.jpg>] [7 <./image/4.jpg> <./image/15.jpg>] [8 <./image/16.jpg> <./image/5.jpg>] [9 <./image/17.jpg> <./image/14.jpg>] [10
+
+]
+ 3.
+<image/19.jpg, id=455, 554.82281pt x 368.1253pt>
+File: image/19.jpg Graphic file (type jpg)
+<use image/19.jpg>
+Package pdftex.def Info: image/19.jpg  used on input line 24.
+(pdftex.def)             Requested size: 360.0pt x 238.86295pt.
+<image/21.jpg, id=456, 546.54187pt x 362.85562pt>
+File: image/21.jpg Graphic file (type jpg)
+<use image/21.jpg>
+Package pdftex.def Info: image/21.jpg  used on input line 35.
+(pdftex.def)             Requested size: 360.0pt x 239.0093pt.
+<image/22.jpg, id=457, 551.05875pt x 358.33875pt>
+File: image/22.jpg Graphic file (type jpg)
+<use image/22.jpg>
+Package pdftex.def Info: image/22.jpg  used on input line 47.
+(pdftex.def)             Requested size: 360.0pt x 234.1094pt.
+
+LaTeX Warning: Float too large for page by 40.19078pt on input line 51.
+
+<image/23.jpg, id=458, 548.0475pt x 362.85562pt>
+File: image/23.jpg Graphic file (type jpg)
+<use image/23.jpg>
+Package pdftex.def Info: image/23.jpg  used on input line 58.
+(pdftex.def)             Requested size: 360.0pt x 238.35596pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+[]\T1/lmr/m/n/10.95 COMMAND: []docker im-age tag 2bb7c202c103 rizki-
+ []
+
+<image/25.jpg, id=459, 545.78906pt x 360.59718pt>
+File: image/25.jpg Graphic file (type jpg)
+<use image/25.jpg>
+Package pdftex.def Info: image/25.jpg  used on input line 74.
+(pdftex.def)             Requested size: 360.0pt x 237.84631pt.
+
+LaTeX Warning: Float too large for page by 101.93265pt on input line 78.
+
+<image/29.jpg, id=460, 550.30594pt x 368.1253pt>
+File: image/29.jpg Graphic file (type jpg)
+<use image/29.jpg>
+Package pdftex.def Info: image/29.jpg  used on input line 91.
+(pdftex.def)             Requested size: 360.0pt x 240.82893pt.
+<image/31.jpg, id=461, 547.2947pt x 358.33875pt>
+File: image/31.jpg Graphic file (type jpg)
+<use image/31.jpg>
+Package pdftex.def Info: image/31.jpg  used on input line 109.
+(pdftex.def)             Requested size: 360.0pt x 235.71147pt.
+<image/34.jpg, id=462, 770.12718pt x 506.6428pt>
+File: image/34.jpg Graphic file (type jpg)
+<use image/34.jpg>
+Package pdftex.def Info: image/34.jpg  used on input line 116.
+(pdftex.def)             Requested size: 360.0pt x 236.83112pt.
+
+LaTeX Warning: Float too large for page by 27.80899pt on input line 127.
+
+) (chapter/upload_dan_pull_image.tex [11] [12 <./image/19.jpg>] [13 <./image/21.jpg> <./image/22.jpg>] [14 <./image/23.jpg> <./image/25.jpg>] [15 <./image/29.jpg>] [16 <./image/31.jpg> <./image/34.jpg>]
+ 4.
+<image/26.jpg, id=488, 767.86874pt x 505.89pt>
+File: image/26.jpg Graphic file (type jpg)
+<use image/26.jpg>
+Package pdftex.def Info: image/26.jpg  used on input line 14.
+(pdftex.def)             Requested size: 360.0pt x 237.18166pt.
+<image/27.jpg, id=489, 767.86874pt x 508.14844pt>
+File: image/27.jpg Graphic file (type jpg)
+<use image/27.jpg>
+Package pdftex.def Info: image/27.jpg  used on input line 23.
+(pdftex.def)             Requested size: 360.0pt x 238.24051pt.
+<image/28.jpg, id=490, 770.12718pt x 507.39563pt>
+File: image/28.jpg Graphic file (type jpg)
+<use image/28.jpg>
+Package pdftex.def Info: image/28.jpg  used on input line 30.
+(pdftex.def)             Requested size: 360.0pt x 237.18303pt.
+
+LaTeX Warning: Float too large for page by 17.42474pt on input line 34.
+
+<image/30.jpg, id=491, 550.30594pt x 367.3725pt>
+File: image/30.jpg Graphic file (type jpg)
+<use image/30.jpg>
+Package pdftex.def Info: image/30.jpg  used on input line 40.
+(pdftex.def)             Requested size: 360.0pt x 240.33644pt.
+<image/32.jpg, id=492, 549.55313pt x 362.85562pt>
+File: image/32.jpg Graphic file (type jpg)
+<use image/32.jpg>
+Package pdftex.def Info: image/32.jpg  used on input line 50.
+(pdftex.def)             Requested size: 360.0pt x 237.70262pt.
+
+LaTeX Warning: Float too large for page by 49.97777pt on input line 54.
+
+<image/33.jpg, id=493, 769.37437pt x 502.12593pt>
+File: image/33.jpg Graphic file (type jpg)
+<use image/33.jpg>
+Package pdftex.def Info: image/33.jpg  used on input line 59.
+(pdftex.def)             Requested size: 360.0pt x 234.95721pt.
+<image/35.jpg, id=494, 553.31718pt x 365.86688pt>
+File: image/35.jpg Graphic file (type jpg)
+<use image/35.jpg>
+Package pdftex.def Info: image/35.jpg  used on input line 78.
+(pdftex.def)             Requested size: 360.0pt x 238.03954pt.
+) (chapter/docker_volume.tex [17
+
+] [18 <./image/26.jpg>] [19 <./image/27.jpg> <./image/28.jpg>] [20 <./image/30.jpg> <./image/32.jpg>] [21 <./image/33.jpg>] [22 <./image/35.jpg>]
+ 5.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 10.
 (C:\Users\Rizki_PC\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
+Overfull \hbox (14.0935pt too wide) in paragraph at lines 12--13
+[]\T1/lmr/m/n/10.95 Perlu men-cadan-gkan (backup), memulihkan (re-store), atau mem-i-grasikan
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 21--22
+[]\T1/lmr/m/n/10.95 Membuat docker vol-ume saat con-tainer dibuat : []docker run <OP-
+ []
+
+<image/38.jpg, id=520, 613.54219pt x 362.85562pt>
+File: image/38.jpg Graphic file (type jpg)
+<use image/38.jpg>
+Package pdftex.def Info: image/38.jpg  used on input line 33.
+(pdftex.def)             Requested size: 360.0pt x 212.90918pt.
+<image/39.jpg, id=521, 768.62157pt x 497.60907pt>
+File: image/39.jpg Graphic file (type jpg)
+<use image/39.jpg>
+Package pdftex.def Info: image/39.jpg  used on input line 40.
+(pdftex.def)             Requested size: 360.0pt x 233.07144pt.
+
+LaTeX Warning: Float too large for page by 112.66495pt on input line 44.
+
+<image/40.jpg, id=522, 618.05907pt x 362.85562pt>
+File: image/40.jpg Graphic file (type jpg)
+<use image/40.jpg>
+Package pdftex.def Info: image/40.jpg  used on input line 52.
+(pdftex.def)             Requested size: 360.0pt x 211.35889pt.
+) (chapter/memanipulasi_file_dengan_docker_volume.tex [23
+
+] [24 <./image/38.jpg> <./image/39.jpg>] [25 <./image/40.jpg>] [26
+
+]
+ 6.
+<image/41.jpg, id=541, 610.53094pt x 362.10281pt>
+File: image/41.jpg Graphic file (type jpg)
+<use image/41.jpg>
+Package pdftex.def Info: image/41.jpg  used on input line 10.
+(pdftex.def)             Requested size: 360.0pt x 213.52277pt.
+<image/42.jpg, id=542, 612.03656pt x 362.10281pt>
+File: image/42.jpg Graphic file (type jpg)
+<use image/42.jpg>
+Package pdftex.def Info: image/42.jpg  used on input line 19.
+(pdftex.def)             Requested size: 360.0pt x 212.98682pt.
+<image/43.jpg, id=543, 612.03656pt x 360.59718pt>
+File: image/43.jpg Graphic file (type jpg)
+<use image/43.jpg>
+Package pdftex.def Info: image/43.jpg  used on input line 34.
+(pdftex.def)             Requested size: 360.0pt x 212.10123pt.
+
+Underfull \hbox (badness 2080) in paragraph at lines 41--43
+\T1/lmr/m/n/10.95 CON-TAINER> -v <NAMA VOL-UME:MOUNT DI-REK-TORI CON-
+ []
+
+<image/64.jpg, id=544, 554.07pt x 363.60844pt>
+File: image/64.jpg Graphic file (type jpg)
+<use image/64.jpg>
+Package pdftex.def Info: image/64.jpg  used on input line 50.
+(pdftex.def)             Requested size: 360.0pt x 236.24835pt.
+
+LaTeX Warning: Float too large for page by 114.87997pt on input line 54.
+
+<image/65.jpg, id=545, 557.08125pt x 368.1253pt>
+File: image/65.jpg Graphic file (type jpg)
+<use image/65.jpg>
+Package pdftex.def Info: image/65.jpg  used on input line 83.
+(pdftex.def)             Requested size: 360.0pt x 237.89679pt.
+<image/66.jpg, id=546, 555.57562pt x 368.87813pt>
+File: image/66.jpg Graphic file (type jpg)
+<use image/66.jpg>
+Package pdftex.def Info: image/66.jpg  used on input line 104.
+(pdftex.def)             Requested size: 360.0pt x 239.02495pt.
+<image/67.jpg, id=547, 557.08125pt x 365.86688pt>
+File: image/67.jpg Graphic file (type jpg)
+<use image/67.jpg>
+Package pdftex.def Info: image/67.jpg  used on input line 129.
+(pdftex.def)             Requested size: 360.0pt x 236.43732pt.
+<image/68.jpg, id=548, 554.07pt x 367.3725pt>
+File: image/68.jpg Graphic file (type jpg)
+<use image/68.jpg>
+Package pdftex.def Info: image/68.jpg  used on input line 136.
+(pdftex.def)             Requested size: 360.0pt x 238.69398pt.
+
+LaTeX Warning: Float too large for page by 71.53253pt on input line 140.
+
+<image/70.jpg, id=549, 554.82281pt x 373.395pt>
+File: image/70.jpg Graphic file (type jpg)
+<use image/70.jpg>
+Package pdftex.def Info: image/70.jpg  used on input line 149.
+(pdftex.def)             Requested size: 360.0pt x 242.28226pt.
+) (chapter/docker_network.tex [27] [28 <./image/41.jpg> <./image/42.jpg>] [29 <./image/43.jpg> <./image/64.jpg>] [30 <./image/65.jpg>] [31 <./image/66.jpg>] [32 <./image/67.jpg> <./image/68.jpg>] [33 <./image/70.jpg>] [34
+
+]
+ 7.
+
+Overfull \hbox (3.98502pt too wide) in paragraph at lines 13--15
+\T1/lmr/m/n/10.95 lang-sung. Peng-guna da-pat meng-gu-nakan driver ini ketika tumpukan jaringan
+ []
+
+[35]
+Overfull \hbox (20.48032pt too wide) in paragraph at lines 16--20
+\T1/lmr/m/n/10.95 merupakan kon-fig-urasi un-tuk menghubungkan be-ber-apa docker dae-mon bersama
+ []
+
+<image/49.jpg, id=588, 552.56438pt x 363.60844pt>
+File: image/49.jpg Graphic file (type jpg)
+<use image/49.jpg>
+Package pdftex.def Info: image/49.jpg  used on input line 35.
+(pdftex.def)             Requested size: 360.0pt x 236.89195pt.
+) (chapter/menghubungkan_aplikasi_docker_network.tex [36] [37 <./image/49.jpg>] [38
+
+]
+ 8.
+
+Overfull \hbox (2.80005pt too wide) in paragraph at lines 3--5
+\T1/lmr/m/n/10.95 meng-gu-nakan docker net-work. Driver docker net-work yang di-gu-nakan adalah
+ []
+
+<image/50.jpg, id=601, 549.55313pt x 359.09157pt>
+File: image/50.jpg Graphic file (type jpg)
+<use image/50.jpg>
+Package pdftex.def Info: image/50.jpg  used on input line 12.
+(pdftex.def)             Requested size: 360.0pt x 235.23683pt.
+<image/54.jpg, id=602, 615.0478pt x 364.36125pt>
+File: image/54.jpg Graphic file (type jpg)
+<use image/54.jpg>
+Package pdftex.def Info: image/54.jpg  used on input line 27.
+(pdftex.def)             Requested size: 360.0pt x 213.27pt.
+
+LaTeX Warning: Float too large for page by 42.77893pt on input line 31.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\T1/lmr/m/n/10.95 COMMAND: []docker run -itd --network=multi-bridge-1 rizki-
+ []
+
+<image/55.jpg, id=603, 555.57562pt x 365.86688pt>
+File: image/55.jpg Graphic file (type jpg)
+<use image/55.jpg>
+Package pdftex.def Info: image/55.jpg  used on input line 40.
+(pdftex.def)             Requested size: 360.0pt x 237.07373pt.
+<image/56.jpg, id=604, 556.32843pt x 364.36125pt>
+File: image/56.jpg Graphic file (type jpg)
+<use image/56.jpg>
+Package pdftex.def Info: image/56.jpg  used on input line 51.
+(pdftex.def)             Requested size: 360.0pt x 235.78122pt.
+
+LaTeX Warning: Float too large for page by 99.19368pt on input line 56.
+
+<image/57.jpg, id=605, 556.32843pt x 367.3725pt>
+File: image/57.jpg Graphic file (type jpg)
+<use image/57.jpg>
+Package pdftex.def Info: image/57.jpg  used on input line 67.
+(pdftex.def)             Requested size: 360.0pt x 237.72981pt.
+<image/58.jpg, id=606, 557.83406pt x 76.03406pt>
+File: image/58.jpg Graphic file (type jpg)
+<use image/58.jpg>
+Package pdftex.def Info: image/58.jpg  used on input line 78.
+(pdftex.def)             Requested size: 360.0pt x 49.07pt.
+<image/59.jpg, id=607, 557.83406pt x 368.87813pt>
+File: image/59.jpg Graphic file (type jpg)
+<use image/59.jpg>
+Package pdftex.def Info: image/59.jpg  used on input line 91.
+(pdftex.def)             Requested size: 360.0pt x 238.06245pt.
+<image/60.jpg, id=608, 551.81157pt x 87.32625pt>
+File: image/60.jpg Graphic file (type jpg)
+<use image/60.jpg>
+Package pdftex.def Info: image/60.jpg  used on input line 104.
+(pdftex.def)             Requested size: 360.0pt x 56.97325pt.
+<image/61.jpg, id=609, 555.57562pt x 366.61969pt>
+File: image/61.jpg Graphic file (type jpg)
+<use image/61.jpg>
+Package pdftex.def Info: image/61.jpg  used on input line 113.
+(pdftex.def)             Requested size: 360.0pt x 237.56154pt.
+<image/62.jpg, id=610, 556.32843pt x 365.11406pt>
+File: image/62.jpg Graphic file (type jpg)
+<use image/62.jpg>
+Package pdftex.def Info: image/62.jpg  used on input line 124.
+(pdftex.def)             Requested size: 360.0pt x 236.26836pt.
+
+LaTeX Warning: Float too large for page by 31.56024pt on input line 128.
+
+) (chapter/perbedaan_docker_version.tex [39]
+Overfull \hbox (72.9472pt too wide) has occurred while \output is active
+\T1/lmr/m/n/10.95 40  \T1/lmr/m/sl/10.95 8.  MENGHUBUNGKAN LEBIH DARI 1 APLIKASI DENGAN DOCKER NETWORK
+ []
+
+[40 <./image/50.jpg> <./image/54.jpg>]
+Overfull \hbox (138.26569pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/10.95 8.2.  LANGKAH MENGHUBUNGKAN LEBIH DARI 1 APLIKASI DENGAN DOCKER NETWORK \T1/lmr/m/n/10.95 41
+ []
+
+[41 <./image/55.jpg> <./image/56.jpg>]
+Overfull \hbox (72.9472pt too wide) has occurred while \output is active
+\T1/lmr/m/n/10.95 42  \T1/lmr/m/sl/10.95 8.  MENGHUBUNGKAN LEBIH DARI 1 APLIKASI DENGAN DOCKER NETWORK
+ []
+
+[42 <./image/57.jpg> <./image/58.jpg>]
+Overfull \hbox (138.26569pt too wide) has occurred while \output is active
+\T1/lmr/m/sl/10.95 8.2.  LANGKAH MENGHUBUNGKAN LEBIH DARI 1 APLIKASI DENGAN DOCKER NETWORK \T1/lmr/m/n/10.95 43
+ []
+
+[43 <./image/59.jpg> <./image/60.jpg>]
+Overfull \hbox (72.9472pt too wide) has occurred while \output is active
+\T1/lmr/m/n/10.95 44  \T1/lmr/m/sl/10.95 8.  MENGHUBUNGKAN LEBIH DARI 1 APLIKASI DENGAN DOCKER NETWORK
+ []
+
+[44 <./image/61.jpg> <./image/62.jpg>]
+ 9.
+<image/63.jpg, id=636, 558.58687pt x 368.1253pt>
+File: image/63.jpg Graphic file (type jpg)
+<use image/63.jpg>
+Package pdftex.def Info: image/63.jpg  used on input line 15.
+(pdftex.def)             Requested size: 360.0pt x 237.25644pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 24.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\T1/lmr/m/n/10.95 Tahun
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\T1/lmr/m/n/10.95 2014-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\T1/lmr/m/n/10.95 2018-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[]\T1/lmr/m/n/10.95 2020-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\T1/lmr/m/n/10.95 Support
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 for com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 per-ess-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 build,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 step
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 num-ber,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\T1/lmr/m/n/10.95 Support
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 out any
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\T1/lmr/m/n/10.95 Added
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 prune
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 op-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 to the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\T1/lmr/m/n/10.95 Beta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 ver-sions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 of ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 par-mor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 are now
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 parsed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 cor-rectly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/lmr/m/n/10.95 pre-vent-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+[]\T1/lmr/m/n/10.95 Updated
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 31--32
+\T1/lmr/m/n/10.95 the bun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+\T1/lmr/m/n/10.95 dled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+\T1/lmr/m/n/10.95 ver-sion
+ []
+
+
+Overfull \hbox (6.41083pt too wide) in paragraph at lines 33--33
+[]\T1/lmr/m/n/10.95 Networking| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\T1/lmr/m/n/10.95 Support
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 at-tach-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 net-work,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 win-dows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 server
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 2016
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 over-lay,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 sepec-i-
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 fy-ing IP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\T1/lmr/m/n/10.95 Support
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 ver-bose
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 info to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 par-tial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 over-lay
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\T1/lmr/m/n/10.95 Added
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 SSH
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 agent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 socket
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 warder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 when
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\T1/lmr/m/n/10.95 Disable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 IPv6
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 Router
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 Ad-ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 tise-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 to pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 vent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/lmr/m/n/10.95 ad-dress
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]\T1/lmr/m/n/10.95 Update
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 lib-net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 work to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 fix pub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 lish-ing
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 ports on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 en-vi-ron-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+\T1/lmr/m/n/10.95 ker-nel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\T1/lmr/m/n/10.95 Support
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 se-crets
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 com-pose
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\T1/lmr/m/n/10.95 Support
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 con-fig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 u-ra-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 in con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\T1/lmr/m/n/10.95 Updated
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 API ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 sion to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\T1/lmr/m/n/10.95 Updated
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 API ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/10.95 sion to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]\T1/lmr/m/n/10.95 Update
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 35--36
+\T1/lmr/m/n/10.95 API ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/lmr/m/n/10.95 sion to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/lmr/m/n/10.95 Support
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 global
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 scoped
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 net-work
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 plu-g-ins,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 up-grade
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/lmr/m/n/10.95 Make
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 plu-gin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 re-moves
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 more
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 re-silient
+ []
+
+
+Overfull \hbox (6.82196pt too wide) in paragraph at lines 37--37
+[]\T1/lmr/m/n/10.95 Configured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 con-tain-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 erd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 log-level
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 same as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/lmr/m/n/10.95 Added
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 ba-sic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 frame-
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 work for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 writ-ing
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 37--37
+\T1/lmr/m/n/10.95 and run-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]\T1/lmr/m/n/10.95 Socker
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\T1/lmr/m/n/10.95 plu-gin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\T1/lmr/m/n/10.95 cre-ate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\T1/lmr/m/n/10.95 mak-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\T1/lmr/m/n/10.95 com-pat-i-
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 37--38
+\T1/lmr/m/n/10.95 ble with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\T1/lmr/m/n/10.95 older
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\T1/lmr/m/n/10.95 ver-sions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\T1/lmr/m/n/10.95 Selinux
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 la-bel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 ing of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 vol-umes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 shared
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 in a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\T1/lmr/m/n/10.95 Redact
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 se-cret
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 data on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 se-cret
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\T1/lmr/m/n/10.95 Added
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 sup-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 se-crets
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 when
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\T1/lmr/m/n/10.95 Prevent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 an in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 valid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 im-age
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 crash-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/lmr/m/n/10.95 docker
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]\T1/lmr/m/n/10.95 Profiles:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+\T1/lmr/m/n/10.95 sec-comp:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+\T1/lmr/m/n/10.95 up-date
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 39--40
+\T1/lmr/m/n/10.95 to Linux
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+\T1/lmr/m/n/10.95 5.11
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+\T1/lmr/m/n/10.95 syscall
+ []
+
+
+LaTeX Warning: Float too large for page by 60.19987pt on input line 42.
+
+) (chapter/tentang_docker_hub.tex [45
+
+] [46 <./image/63.jpg>] [47] [48
+
+]
+ 10.
+
 Overfull \hbox (0.79979pt too wide) in paragraph at lines 12--13
 []\T1/lmr/m/n/10.95 Docker menye-di-akan Docker Hub CLI tool dan API un-tuk men-gizinkan
  []
 
-[1
+[49] (main.aux)
 
-] (main.aux)
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 559F3A5AD9F23C4E3CF5C59EC5F7768B;279.
+(rerunfilecheck)             Checksum: 4208F6E377A399C2EB9B2D38953148B1;7113.
  ) ) 
 Here is how much of TeX's memory you used:
- 10235 strings out of 477992
- 166607 string characters out of 2826050
- 475988 words of memory out of 3000000
- 28820 multiletter control sequences out of 15000+600000
- 555725 words of font info for 81 fonts, out of 8000000 for 9000
+ 10835 strings out of 477992
+ 176325 string characters out of 2826050
+ 489182 words of memory out of 3000000
+ 29183 multiletter control sequences out of 15000+600000
+ 562986 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,603b,470s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (9 pages, 254815 bytes).
+ 72i,11n,77p,603b,565s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (57 pages, 6781850 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 747 PDF objects out of 1000 (max. 8388607)
+ 172 named destinations out of 1000 (max. 500000)
+ 622 words of extra memory for PDF output out of 10000 (max. 10000000)
 

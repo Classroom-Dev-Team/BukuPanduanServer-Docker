@@ -1,2 +1,60 @@
 \babel@toc {english}{}\relax 
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Docker}}{1}{figure.1.1}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Arsitektur Docker}}{3}{figure.1.2}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Apt update}}{6}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Apt menggunakan paket HTTPS}}{6}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Tambahkan kunci GPG}}{7}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Tambahkan repositori docker}}{7}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Update paket}}{8}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Repositori instalasi docker dari repositori docker}}{8}{figure.2.6}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Instalasi docker}}{9}{figure.2.7}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Memastikan docker berjalan}}{9}{figure.2.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Buat folder dan buat dockerfile didalamnya}}{12}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Isi file dockerfile}}{13}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Build Image}}{13}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Cek daftar docker images}}{14}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Tag docker images}}{14}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Buat dan run images}}{15}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Cek kontainer}}{16}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Tampilan akses ke kontainer}}{16}{figure.3.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Buat repositori docker hub}}{18}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Pengaturan repositori}}{19}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Berhasil membuat repositori}}{19}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Login docker di command line}}{20}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Upload docker images}}{20}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Tampilan berhasil upload}}{21}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Pull docker images}}{22}{figure.4.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Buat docker volume saat container dibuat}}{24}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Tampilan mengakses kontainer dalam volume}}{24}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Tampilan inspect docker volume}}{25}{figure.5.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Buat Dockerfile}}{28}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Buat docker images}}{28}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Beri nama dan tag images}}{29}{figure.6.3}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Buat volume, masuk direktori container}}{29}{figure.6.4}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Cek file mount}}{30}{figure.6.5}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Inspect volume}}{31}{figure.6.6}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Edit file}}{32}{figure.6.7}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Edit file dan simpan}}{32}{figure.6.8}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Edit file dan simpan}}{33}{figure.6.9}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Lihat port jaringan}}{37}{figure.7.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Cek docker network}}{40}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Buat docker network}}{40}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Masukan container ke docker network}}{41}{figure.8.3}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Inspect docker network}}{41}{figure.8.4}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Jalankan kontainer}}{42}{figure.8.5}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Tambah container ke docker network saat berjalan}}{42}{figure.8.6}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Inspect docker network}}{43}{figure.8.7}%
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Memutuskan docker network}}{43}{figure.8.8}%
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Inspect docker network}}{44}{figure.8.9}%
+\contentsline {figure}{\numberline {8.10}{\ignorespaces Menghapus docker network}}{44}{figure.8.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Cek versi docker}}{46}{figure.9.1}%
+\addvspace {10\p@ }

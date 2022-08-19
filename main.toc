@@ -1,3 +1,58 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}Tentang Docker Hub}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Fitur Docker Hub}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {1}Tentang Docker}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Pengertian Docker}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Keuntungan Menggunakan Docker}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Arsitektur Docker}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Docker Daemon}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Docker Client}{2}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Docker Desktop}{3}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Docker Registries}{3}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Docker CE}{3}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}Docker EE}{3}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Docker Object}{4}{subsection.1.3.7}%
+\contentsline {subsubsection}{Images}{4}{section*.4}%
+\contentsline {subsubsection}{Container}{4}{section*.5}%
+\contentsline {chapter}{\numberline {2}instalasi Docker di Server}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Pembuka}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Langkah Instalasi}{5}{section.2.2}%
+\contentsline {subsubsection}{1. Lakukan update paket pada linux}{6}{section*.6}%
+\contentsline {subsubsection}{2. Install paket yang memungkinkan apt menggunakan paket dari HTTPS}{6}{section*.7}%
+\contentsline {subsubsection}{3. Tambahkan kunci GPG untuk repositori resmi docker ke sistem dan lakukan update paket lagi}{7}{section*.8}%
+\contentsline {subsubsection}{4. Tambahkan repositori docker }{7}{section*.9}%
+\contentsline {subsubsection}{5. Lakukan update paket lagi}{8}{section*.10}%
+\contentsline {subsubsection}{6. Pastikan repositori instalasi docker dari repositori docker bukan ubuntu}{8}{section*.11}%
+\contentsline {subsubsection}{7. Lakukan instalasi docker}{9}{section*.12}%
+\contentsline {subsubsection}{8. Pastikan docker berjalan}{9}{section*.13}%
+\contentsline {chapter}{\numberline {3}Build Aplikasi dan Run Pada Docker}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Pembuka}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Langkah Build Aplikasi}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Run Pada Docker}{15}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Upload dan Pull Pada Image}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Pembuka}{18}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Upload Image ke Docker Hub}{18}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Pull Image dari Docker Registry}{22}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Docker Volume}{23}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Pembuka}{23}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Kapan menggunakan volume ?}{23}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Membuat docker Volume}{24}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Memanipulasi File Pada Docker volume}{27}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pembuka}{27}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Langkah memanipulasi file pada docker volume}{27}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Docker Network}{35}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Pengertian}{35}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Docker Network Drivers}{35}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Bridge (default)}{35}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Host}{35}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Overlay}{36}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}IPvlan}{36}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Macvlan}{36}{subsection.7.2.5}%
+\contentsline {subsection}{\numberline {7.2.6}None}{36}{subsection.7.2.6}%
+\contentsline {subsection}{\numberline {7.2.7}Network Plugins}{36}{subsection.7.2.7}%
+\contentsline {chapter}{\numberline {8}Menghubungkan Lebih Dari 1 Aplikasi Dengan Docker Network}{39}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Pembuka}{39}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Langkah menghubungkan lebih dari 1 aplikasi dengan docker network}{39}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Perbedaan Docker Version}{45}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Pembuka}{45}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Perbedaan docker version}{46}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Tentang Docker Hub}{49}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Fitur Docker Hub}{49}{section.10.1}%
