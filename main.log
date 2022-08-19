@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  15 AUG 2022 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  17 AUG 2022 16:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,56 +358,34 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
  [7] [8
 
-] (chapter/tentang_docker.tex
+] (chapter/tentang_docker_hub.tex
  1.
-<image/docker.PNG, id=110, 770.88pt x 197.98969pt>
-File: image/docker.PNG Graphic file (type png)
-<use image/docker.PNG>
-Package pdftex.def Info: image/docker.PNG  used on input line 13.
-(pdftex.def)             Requested size: 360.0pt x 92.46pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6.
+(C:\Users\Rizki_PC\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (0.79979pt too wide) in paragraph at lines 12--13
+[]\T1/lmr/m/n/10.95 Docker menye-di-akan Docker Hub CLI tool dan API un-tuk men-gizinkan
+ []
+
 [1
 
- <./image/docker.PNG>]
-Overfull \hbox (25.25726pt too wide) in paragraph at lines 30--31
-[]\T1/lmr/m/n/10.95 Kontainer docker da-pat ber-jalan di-mana saja, baik lokal, mesin fisik/virtual,
- []
-
-
-Overfull \hbox (3.02264pt too wide) in paragraph at lines 38--43
-\T1/lmr/m/n/10.95 Docker client da-pat berko-mu-nikasi den-gan Docker dae-mon yang men-jalankan
- []
-
-
-Overfull \hbox (13.9712pt too wide) in paragraph at lines 38--43
-\T1/lmr/m/n/10.95 tu-gas un-tuk mem-ban-gun, men-jalankan, dan mendis-tribusikan con-tainer docker.
- []
-
-
-Overfull \hbox (5.18245pt too wide) in paragraph at lines 38--43
-\T1/lmr/m/n/10.95 client un-tuk berko-mu-nikasi den-gan ap-likasi yang di-dalam-nya ter-da-pat banyak
- []
-
-<image/architecture.jpg, id=118, 1185.96924pt x 619.85423pt>
-File: image/architecture.jpg Graphic file (type jpg)
-<use image/architecture.jpg>
-Package pdftex.def Info: image/architecture.jpg  used on input line 46.
-(pdftex.def)             Requested size: 360.0pt x 188.152pt.
-[2] [3 <./image/architecture.jpg>]) [4] (main.aux)
+] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9A893E8D2173DCCA5B9A1A9FCCE22316;1495.
- ) 
+(rerunfilecheck)             Checksum: 559F3A5AD9F23C4E3CF5C59EC5F7768B;279.
+ ) ) 
 Here is how much of TeX's memory you used:
- 10255 strings out of 477992
- 166483 string characters out of 2826050
- 479069 words of memory out of 3000000
- 28817 multiletter control sequences out of 15000+600000
- 562621 words of font info for 82 fonts, out of 8000000 for 9000
+ 10235 strings out of 477992
+ 166607 string characters out of 2826050
+ 475988 words of memory out of 3000000
+ 28820 multiletter control sequences out of 15000+600000
+ 555725 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,755b,475s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (12 pages, 443203 bytes).
+ 72i,11n,77p,603b,470s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (9 pages, 254815 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
