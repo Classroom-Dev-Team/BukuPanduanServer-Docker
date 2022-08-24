@@ -5,7 +5,7 @@
 Panduan kali ini membahas upload dan pull docker images. Upload yang dilakukan yaitu menyimpan docker images yang sudah dibuat ke repositori Docker Hub.
 Push merupakan perintah docker untuk mengupload docker image ke repositori akun docker hub. 
 Pull yang dilakukan yaitu mengambil docker images yang sudah ada di docker registri ke penyimpanan lokal untuk digunakan. 
-Pull merupakan perintah docker untuk mengambil docker images yang tersedia di docker registry/ sudah tersedia. Dengan ini pengguna tidak perlu membuat Dockerfile untuk membuat docker image, cukup download saja yang sudah tersedia.
+Pull merupakan perintah docker untuk mengambil docker images yang tersedia di docker registry. Dengan ini pengguna tidak perlu membuat Dockerfile untuk membuat docker image, cukup download saja yang sudah tersedia.
 
     \section{Upload Image ke Docker Hub}
 
@@ -79,5 +79,11 @@ COMMAND: \textcolor{Blue}{docker images}
         \caption{Pull docker images}
         \label{fig:my_figure}
     \end{center}
+
+Setelah docker image di pull/diambil, pengguna dapat membangun kontainer seperti biasa dari 
+docker image yang telah di pull dari registri.
+
 \end{figure}
+
+
 

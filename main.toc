@@ -55,4 +55,5 @@
 \contentsline {section}{\numberline {9.1}Pembuka}{45}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Perbedaan docker version}{46}{section.9.2}%
 \contentsline {chapter}{\numberline {10}Tentang Docker Hub}{49}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Fitur Docker Hub}{49}{section.10.1}%
+\contentsline {section}{\numberline {10.1}Pengertian}{49}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Fitur Docker Hub}{49}{section.10.2}%
