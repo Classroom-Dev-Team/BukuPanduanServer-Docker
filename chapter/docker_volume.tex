@@ -15,6 +15,12 @@ direktori ini yang di mount ke dalam container. Docker menyediakan 2 opsi sintak
 \end{itemize}
 
 \begin{figure}
+    \begin{center}
+        \includegraphics[width=\linewidth]{image/volume.png}
+        \caption{Docker Volume}
+        \label{fig:my_figure}
+    \end{center}
+    
     \section{Membuat docker Volume}
     1. Membuat docker volume saat container dibuat
     
@@ -35,14 +41,16 @@ direktori ini yang di mount ke dalam container. Docker menyediakan 2 opsi sintak
         \label{fig:my_figure}
     \end{center}
 
+    
+\end{figure}
+\begin{figure}
     2. Buka browser akes http://0.0.0.0:80, akan muncul tampilan berikut 
     \begin{center}
         \includegraphics[width=\linewidth]{image/39.jpg}
         \caption{Tampilan mengakses kontainer dalam volume}
         \label{fig:my_figure}
     \end{center}
-\end{figure}
-\begin{figure}
+
     3. Periksa detail docker volume
     
     Periksa detail docker volume : \textcolor{Gray}{docker volume inspect <NAMA VOLUME>}

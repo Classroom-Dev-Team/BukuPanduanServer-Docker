@@ -29,9 +29,10 @@
 \contentsline {figure}{\numberline {4.6}{\ignorespaces Tampilan berhasil upload}}{21}{figure.4.6}%
 \contentsline {figure}{\numberline {4.7}{\ignorespaces Pull docker images}}{22}{figure.4.7}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Buat docker volume saat container dibuat}}{24}{figure.5.1}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Tampilan mengakses kontainer dalam volume}}{24}{figure.5.2}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Tampilan inspect docker volume}}{25}{figure.5.3}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Docker Volume}}{24}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Buat docker volume saat container dibuat}}{24}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Tampilan mengakses kontainer dalam volume}}{25}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Tampilan inspect docker volume}}{25}{figure.5.4}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Buat Dockerfile}}{28}{figure.6.1}%
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Buat docker images}}{28}{figure.6.2}%
