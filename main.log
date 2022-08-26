@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  25 AUG 2022 15:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  26 AUG 2022 09:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -750,58 +750,58 @@ Package pdftex.def Info: image/40.jpg  used on input line 60.
 <image/41.jpg, id=550, 610.53094pt x 362.10281pt>
 File: image/41.jpg Graphic file (type jpg)
 <use image/41.jpg>
-Package pdftex.def Info: image/41.jpg  used on input line 10.
+Package pdftex.def Info: image/41.jpg  used on input line 11.
 (pdftex.def)             Requested size: 360.0pt x 213.52277pt.
 <image/42.jpg, id=551, 612.03656pt x 362.10281pt>
 File: image/42.jpg Graphic file (type jpg)
 <use image/42.jpg>
-Package pdftex.def Info: image/42.jpg  used on input line 19.
+Package pdftex.def Info: image/42.jpg  used on input line 20.
 (pdftex.def)             Requested size: 360.0pt x 212.98682pt.
 <image/43.jpg, id=552, 612.03656pt x 360.59718pt>
 File: image/43.jpg Graphic file (type jpg)
 <use image/43.jpg>
-Package pdftex.def Info: image/43.jpg  used on input line 34.
+Package pdftex.def Info: image/43.jpg  used on input line 35.
 (pdftex.def)             Requested size: 360.0pt x 212.10123pt.
 
-Underfull \hbox (badness 2080) in paragraph at lines 41--43
+Underfull \hbox (badness 2080) in paragraph at lines 42--44
 \T1/lmr/m/n/10.95 CON-TAINER> -v <NAMA VOL-UME:MOUNT DI-REK-TORI CON-
  []
 
 <image/64.jpg, id=553, 554.07pt x 363.60844pt>
 File: image/64.jpg Graphic file (type jpg)
 <use image/64.jpg>
-Package pdftex.def Info: image/64.jpg  used on input line 50.
+Package pdftex.def Info: image/64.jpg  used on input line 51.
 (pdftex.def)             Requested size: 360.0pt x 236.24835pt.
 
-LaTeX Warning: Float too large for page by 114.87997pt on input line 54.
+LaTeX Warning: Float too large for page by 114.87997pt on input line 55.
 
 <image/65.jpg, id=554, 557.08125pt x 368.1253pt>
 File: image/65.jpg Graphic file (type jpg)
 <use image/65.jpg>
-Package pdftex.def Info: image/65.jpg  used on input line 83.
+Package pdftex.def Info: image/65.jpg  used on input line 84.
 (pdftex.def)             Requested size: 360.0pt x 237.89679pt.
 <image/66.jpg, id=555, 555.57562pt x 368.87813pt>
 File: image/66.jpg Graphic file (type jpg)
 <use image/66.jpg>
-Package pdftex.def Info: image/66.jpg  used on input line 104.
+Package pdftex.def Info: image/66.jpg  used on input line 105.
 (pdftex.def)             Requested size: 360.0pt x 239.02495pt.
 <image/67.jpg, id=556, 557.08125pt x 365.86688pt>
 File: image/67.jpg Graphic file (type jpg)
 <use image/67.jpg>
-Package pdftex.def Info: image/67.jpg  used on input line 129.
+Package pdftex.def Info: image/67.jpg  used on input line 130.
 (pdftex.def)             Requested size: 360.0pt x 236.43732pt.
 <image/68.jpg, id=557, 554.07pt x 367.3725pt>
 File: image/68.jpg Graphic file (type jpg)
 <use image/68.jpg>
-Package pdftex.def Info: image/68.jpg  used on input line 136.
+Package pdftex.def Info: image/68.jpg  used on input line 137.
 (pdftex.def)             Requested size: 360.0pt x 238.69398pt.
 
-LaTeX Warning: Float too large for page by 71.53253pt on input line 140.
+LaTeX Warning: Float too large for page by 71.53253pt on input line 141.
 
 <image/70.jpg, id=558, 554.82281pt x 373.395pt>
 File: image/70.jpg Graphic file (type jpg)
 <use image/70.jpg>
-Package pdftex.def Info: image/70.jpg  used on input line 149.
+Package pdftex.def Info: image/70.jpg  used on input line 150.
 (pdftex.def)             Requested size: 360.0pt x 242.28226pt.
 ) (chapter/docker_network.tex [27] [28 <./image/41.jpg> <./image/42.jpg>] [29 <./image/43.jpg> <./image/64.jpg>] [30 <./image/65.jpg>] [31 <./image/66.jpg>] [32 <./image/67.jpg> <./image/68.jpg>] [33 <./image/70.jpg>] [34
 
@@ -1686,7 +1686,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,603b,565s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (57 pages, 6796765 bytes).
+Output written on main.pdf (57 pages, 6796786 bytes).
 PDF statistics:
  756 PDF objects out of 1000 (max. 8388607)
  174 named destinations out of 1000 (max. 500000)
