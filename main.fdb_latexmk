@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1661481222 "d:/laporan-magang-part2/TemplateBukuPanduan-master/main.tex" "main.pdf" "main" 1661481262
+["pdflatex"] 1661760828 "d:/laporan-magang-part2/TemplateBukuPanduan-master/main.tex" "main.pdf" "main" 1661760844
   "C:/Users/Rizki_PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1660544289 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Rizki_PC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1660287036 10361023 7b8f701f50dc882e74a06c300d325d6f ""
   "C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -111,7 +111,7 @@
   "C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Rizki_PC/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "chapter/build_aplikasi_dan_run_pada_docker.tex" 1660548283 4302 d458d5cdc34f675d91ea2c973b0b03c3 ""
-  "chapter/docker_network.tex" 1660728873 3385 dfcb0b8cb556190413dcb59143e7ea74 ""
+  "chapter/docker_network.tex" 1661760817 3208 997d4ea2e60d84191a007a726e391a45 ""
   "chapter/docker_volume.tex" 1661417509 2887 2f1efeecb6e6bfd98a4fd1c2f854cc7e ""
   "chapter/instalasi_docker.tex" 1660545255 3066 eeb22f4ea4db6ed35df91029fece852f ""
   "chapter/memanipulasi_file_dengan_docker_volume.tex" 1661481203 5124 7f390d96ff65b9b4b0853714aa21e6e3 ""
@@ -171,12 +171,12 @@
   "image/architecture.jpg" 1660262058 88484 f3e51d5cd00f803e5520cc7073ea9259 ""
   "image/docker.PNG" 1660528305 111374 5d8084ec7d110239128883ab010e24f3 ""
   "image/volume.png" 1661417418 23458 872510c30b8e8368e723bad546e6d6f9 ""
-  "main.aux" 1661481258 19174 5901d3bdb317ffab3c103926a24dfaf5 "pdflatex"
-  "main.lof" 1661481258 5094 e3d6d278bc7a7c1bcd4beb69e1c418f6 "pdflatex"
-  "main.lot" 1661481258 230 3e91a5484bdc20b1d9faaaddae70e2a0 "pdflatex"
-  "main.out" 1661481258 7220 ebff488dfd701da27c07a2294ab3dc8b "pdflatex"
+  "main.aux" 1661760843 19174 5901d3bdb317ffab3c103926a24dfaf5 "pdflatex"
+  "main.lof" 1661760843 5094 e3d6d278bc7a7c1bcd4beb69e1c418f6 "pdflatex"
+  "main.lot" 1661760843 230 3e91a5484bdc20b1d9faaaddae70e2a0 "pdflatex"
+  "main.out" 1661760843 7220 ebff488dfd701da27c07a2294ab3dc8b "pdflatex"
   "main.tex" 1660879318 9257 1aa7e7c28b2f33bfb4c01ee9d97f39b9 ""
-  "main.toc" 1661481258 4800 2f63e2492ff2755956fd3a573cb4ab3d "pdflatex"
+  "main.toc" 1661760843 4800 2f63e2492ff2755956fd3a573cb4ab3d "pdflatex"
   (generated)
   "main.aux"
   "main.lof"

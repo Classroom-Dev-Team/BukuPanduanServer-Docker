@@ -13,9 +13,7 @@ yang berjalan dalam kontainer secara mandiri perlu berkomunikasi. Pengguna dapat
 merupakan konfigurasi untuk kontainer mandiri, menghapus isolasi jaringan antara kontainer dan docker host, dan menggunakan jaringan host secara langsung. Pengguna dapat menggunakan driver ini
 ketika tumpukan jaringan tidak boleh diisolasi dari docker host tapi mengiginkan aspek lain dari kontainer untuk diisolasi.
 \subsection{Overlay}
-merupakan konfigurasi untuk menghubungkan beberapa docker daemon bersama sama dan memungkinkan layanan swarm untuk berkomunikasi satu sama lain. Pengguna dapat menggunakan driver ini untuk memfas
-ilitasi 
-komunikasi antara layanan swarm dan kontainer mandiri atau dua kontainer mandiri dalam docker daemon yang berbeda. Strategi ini menghilangkan kebutuhan untuk melakukan perutean tingkat OS diantara kontainer.
+merupakan konfigurasi untuk menghubungkan beberapa docker daemon bersama sama dan memungkinkan layanan swarm untuk berkomunikasi satu sama lain. Strategi ini menghilangkan kebutuhan untuk melakukan perutean tingkat OS diantara kontainer.
 Pengguna dapat menggunakan driver ini untuk komunikasi antara kontainer dalam host docker yang berbeda atau saat beberapa aplikai bekerja sama menggunakan layanan swarm.
 \subsection{IPvlan}
 merupakan konfigurasi yang memberi pengguna kendali penuh atas pengalamatan IPv4 dan IPv6. Driver VLAN dibangun diatas itu dan memberi pengguna kendali penuh pada lapisan 2 VLAN tagging bahkan IPvlan L3 untuk 
